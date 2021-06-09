@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(64, 9, 214);
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+#cabeçalho{
+    color: rgb(229, 245, 10);
+    margin: 0 auto;
+}
+
+#topo{
+    background-color:#ee3338;
+    
+}
+
+.faixa{
+    background-color: black;
+    height: 10px;  
+}
+
+.footer {
+    
+    background-color: rgb(15, 231, 62);
+    height: 5px; 
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    margin-top: 50px;
+}
+
+#alerta {
+
+    margin:0 auto;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    max-height: 100%;
+    max-width: 15%;
+
+}
+
+#titulo {
+    margin: 0 auto;
+    max-width: 90%;
+    
+}
+
+
+#pesquisador{
+
+   margin: 0 auto;
+   margin-top: 50px;
+   max-width: 30%;
+   
+}
+
+#seletor{
+
+    font-size: 30px;
+    border-color: rgb(17, 250, 48);
+    color: white;
+    background-color: #ee3338 ;
+    margin: 0 auto;
+    margin-top: 30px;
+    max-width: 40%;
+    height: 35px;
+    padding: 2px;
+    
+ }
+
+ #voltar{
+
+    font-size: 15px;
+    border-color: black;
+    color: white;
+    background-color:rgb(41, 172, 41) ;
+    margin: 0 auto;
+    max-width: 30%;
+    height: 35px;
+    padding: 2px ;
+    
+ }
+
+
+
